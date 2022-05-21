@@ -1,0 +1,6 @@
+OBJECT_ID="_id"
+ID="id"
+NAME="name"
+ROLE="role"
+RANK="rank"
+PASSWORD="password"
